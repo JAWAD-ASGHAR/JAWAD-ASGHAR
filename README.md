@@ -26,8 +26,8 @@ I'm a passionate Full Stack Developer with 2 years of experience working in dyna
 
 ### 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)]([https://github.com/yourusername](https://github.com/JAWAD-ASGHAR))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jawad-asghar-a1290028b/))
 
 ---
 
