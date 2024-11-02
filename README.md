@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer with 2 years of experience working in dyna
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C Language](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![CLanguage](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
