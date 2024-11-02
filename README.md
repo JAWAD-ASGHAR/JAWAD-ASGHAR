@@ -28,16 +28,3 @@ I'm a passionate Full Stack Developer with 2 years of experience working in dyna
 
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/JAWAD-ASGHAR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jawad-asghar-a1290028b/)
-
----
-
-### 🚀 What I’m Working On
-- Building responsive, efficient applications for the web
-- Experimenting with new frontend and backend technologies
-- Improving my skills in DevOps and CI/CD 
-
----
-
-### 📌 Pinned Projects
-
-Take a look at some of my favorite projects pinned below. 👇
