@@ -1,6 +1,9 @@
 # Hi there 👋
 
-I'm a passionate Full Stack Developer with 2 years of experience working in dynamic startup environments. I love building responsive, scalable, and user-centric applications with modern web technologies. 
+I Started my journey into coding by watching my friends and family, and really fell in love with it over time. I love being surrounded by awesome developers which help me level up indirectly. Always kept my mind open to new tech, which is why I always keep on learning mode and pick up things super quickly.
+
+## What I do 💻
+I've been working as a full stack dev but I really like doing frontend, thanks to my design background, creating beautiful UIs really excites me! I am deep in the JavaScript ecosystem and related tech. I especially Love working with tight-knit startup teams where you face fresh challenges and create real impact. If you're hiring, let's chat!
 
 ---
 
@@ -22,6 +25,8 @@ I'm a passionate Full Stack Developer with 2 years of experience working in dyna
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 #### Other Languages and Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
