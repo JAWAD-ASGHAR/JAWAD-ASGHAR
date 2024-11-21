@@ -32,10 +32,3 @@ I've been working as a full stack dev but I really like doing frontend, thanks t
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakraui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-
----
-
-### 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/JAWAD-ASGHAR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jawad-asghar-a1290028b/)
