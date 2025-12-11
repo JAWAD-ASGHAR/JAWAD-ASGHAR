@@ -3,7 +3,7 @@
 I Started my journey into coding by watching my friends and family, and really fell in love with it over time. I love being surrounded by awesome developers which help me level up indirectly. Always kept my mind open to new tech, which is why I am always on learning mode and pick up things super quickly.
 
 ## What I do 💻
-I've been working as a full stack dev but I really like doing frontend, thanks to my design background, creating beautiful UIs really excites me! I am deep in the JavaScript ecosystem and related tech. I especially Love working with tight-knit startup teams where you face fresh challenges and create real impact. If you're hiring, let's chat!
+I've been working as a full stack dev! I am deep in the JavaScript ecosystem and related tech. I especially Love working with tight-knit startup teams where you face fresh challenges and create real impact. If you're hiring, let's chat!
 
 ---
 
